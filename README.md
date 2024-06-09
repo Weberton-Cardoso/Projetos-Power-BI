@@ -1,6 +1,6 @@
 # Relatório Power BI
 
-Este repositório contém um relatório interativo criado no Power BI, que visualiza e analisa dados relacionados a [descrever o tema ou objetivo do relatório, por exemplo, "vendas de produtos", "análise de mercado", etc.].
+Este repositório contém um relatório interativo criado no Power BI, que visualiza e analisa dados relacionados a de vendas, projeto realizado através do bootcamp Python Data Analytics da Dio.
 
 ## Visão Geral
 
