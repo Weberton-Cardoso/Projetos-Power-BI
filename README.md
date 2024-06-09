@@ -4,7 +4,7 @@ Este repositório contém um relatório interativo criado no Power BI, que visua
 
 ## Visão Geral
 
-O relatório no Power BI é projetado para fornecer insights abrangentes sobre [descrever brevemente o tipo de dados e análises apresentadas]. Este projeto inclui:
+O relatório no Power BI é projetado para fornecer insights abrangentes sobre vendas de produtos. Este projeto inclui:
 
 - Análise de Dados de vendas.
 - Visualizações interativas para facilitar a exploração dos dados.
