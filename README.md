@@ -8,7 +8,7 @@ O relatório no Power BI é projetado para fornecer insights abrangentes sobre [
 
 - Análise de Dados de vendas.
 - Visualizações interativas para facilitar a exploração dos dados.
-- Criação de botões para navegar pelo relatórioi.
+- Criação de botões para navegar pelo relatório.
 
 ## Estrutura do Repositório
 
